@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatApp_Client</string>
+    <string name="login_btn">Log In</string>
+    <string name="edittext">Username</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="message_in">Enter message</string>
+    <string name="send">Send</string>
+    <string name="log_toolbar">Log In</string>
+    <string name="Logout">Log Out</string>
+    <string name="rndm_text">ABCD</string>
+    <string name="rndm_num">ABCD</string>
+
+</resources>
