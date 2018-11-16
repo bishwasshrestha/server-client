@@ -35,7 +35,7 @@ class ChatActivity :  AppCompatActivity(), ClientObserver {
        send_btn.setOnClickListener {
             if (!message_in.text.isEmpty()) {
                    ConnectToServer.sendtoserver(message_in.text.toString())
-                    message_in.text.clear()
+                   message_in.text.clear()
             }
        }
     }
