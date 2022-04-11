@@ -1,7 +1,11 @@
-# Server
-	Server is written with kotlin
-	upon execution of both server and client, the client connects with the server
-	server monitores all the clients and exchanges message among active clients
-# Client	
-	Client is written in kotlin
-	client is capable of logging in, sending and receiving messages and logging out.
+>This is a basic **android based** server-client mobile application following Java **observer-observable** principle 
+> Server broadcasts information and every client connected to that port recieves the message. 
+> It can host multiple clients at the same time and communicate among each other
+# Features:
+	- User registration
+	- login and logout
+	- Chat history
+>![image](https://user-images.githubusercontent.com/29711192/162726512-483a2d4e-4956-4d25-bdb3-be35aa5a7452.png)
+
+
+
